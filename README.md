@@ -49,11 +49,3 @@ The project focuses on workforce cost monitoring, payroll analysis, reimbursemen
 * Travel, Mobile, and Hotel claims represent significant expense categories.
 * Flight travel contributes the highest travel expenditure.
 * Workforce and spending trends can support budgeting and operational planning.
-
-## Project Structure
-
-├── Dataset
-├── Python Analysis Notebook
-├── Power BI Dashboard
-├── Project Report
-└── Dashboard Screenshots
